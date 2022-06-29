@@ -1,0 +1,19 @@
+Karol@Karol MINGW32 /c/Repozytorium - WSE (master)
+$ git clone https://github.com/WebCampPL/PythonWSE2022.git
+Cloning into 'PythonWSE2022'...
+remote: Enumerating objects: 31, done.
+remote: Counting objects: 100% (31/31), done.
+remote: Compressing objects: 100% (24/24), done.
+remote: Total 31 (delta 8), reused 26 (delta 5), pack-reused 0
+Receiving objects: 100% (31/31), 5.25 KiB | 5.25 MiB/s, done.
+Resolving deltas: 100% (8/8), done.
+
+Karol@Karol MINGW32 /c/Repozytorium - WSE (master)
+$ git commit -m "zaliczenie"
+[master (root-commit) dcd0837] zaliczenie
+ 5 files changed, 102 insertions(+)
+ create mode 100644 My_project/Projekt 1.c
+ create mode 100644 My_project/Projekt 2.c
+ create mode 100644 My_project/clone.txt
+ create mode 100644 My_project/readme.txt
+ create mode 160000 PythonWSE2022
